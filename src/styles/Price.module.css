@@ -1,0 +1,14 @@
+.price {
+  margin: 5px 20px;
+}
+
+.price p {
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  margin: 0 0 5px 0;
+}
+
+.price div {
+  font-size: 22px;
+  color: #23A0FE;
+}
